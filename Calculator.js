@@ -14,3 +14,7 @@ function multiply(a,b) {
 function division(a,b) {
   return a/b
 }
+
+function log(a) {
+  echo("Go away")
+}
